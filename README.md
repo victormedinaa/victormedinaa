@@ -1,7 +1,3 @@
-Aquí tienes una propuesta de README atractivo y divertido para tu perfil en GitHub que resalte tus proyectos y pasiones:
-
----
-
 # 👋 ¡Hola! Soy Víctor Medina
 
 ¡Bienvenido a mi rincón de GitHub! Aquí encontrarás una colección de proyectos creados con pasión, dedicación y un toque de curiosidad infinita. Mi mundo gira en torno a datos, aprendizaje automático y el mar 🌊. 

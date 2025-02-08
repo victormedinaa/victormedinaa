@@ -6,7 +6,7 @@ Bienvenido a mi espacio en GitHub. Aquí encontrarás el reflejo de mi pasión p
 
 ## Sobre Mí
 
-En mis inicios, la fascinación por el mar y la navegación me enseñó a enfrentar desafíos y a disfrutar del camino, sin importar las tormentas. Con el tiempo, he evolucionado y hoy encuentro en el running una nueva forma de superarme día a día. Esta transición simboliza mi compromiso con la constancia, la resiliencia y la búsqueda de nuevas metas, tanto en el ámbito deportivo como en el profesional.
+En mis inicios, la fascinación por el mar y la navegación me enseñó a enfrentar desafíos y a disfrutar del camino, sin importar las tormentas. Con el tiempo, he evolucionado y hoy encuentro en el running (https://www.strava.com/athletes/147599110) una nueva forma de superarme día a día. Esta transición simboliza mi compromiso con la constancia, la resiliencia y la búsqueda de nuevas metas, tanto en el ámbito deportivo como en el profesional.
 
 Mi recorrido en el mundo de la ciencia de datos y la ingeniería se basa en la curiosidad por descubrir cómo cada línea de código puede transformar la realidad. Mi GitHub es el espacio donde plasmo ideas, experimentos y aprendizajes que me impulsan a seguir innovando.
 

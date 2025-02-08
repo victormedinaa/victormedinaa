@@ -1,26 +1,33 @@
-# 👋 ¡Hola! Soy Víctor Medina
+# ¡Hola, soy Víctor Medina!
 
-¡Bienvenido a mi rincón de GitHub! Aquí encontrarás una colección de proyectos creados con pasión, dedicación y un toque de curiosidad infinita. Mi mundo gira en torno a datos, aprendizaje automático y el mar 🌊. 
-
----
-
-## 🚀 ¿Qué encontrarás aquí?
-### 🔍 Ciencia de Datos & Machine Learning
-Desde modelos predictivos hasta técnicas avanzadas de Deep Learning, me encanta explorar y optimizar algoritmos que permiten desentrañar la complejidad de los datos. Aquí comparto proyectos que buscan dar sentido a datos y resolver problemas reales usando herramientas como MLflow, Kubeflow y otros frameworks avanzados.
-
-### ☁️ Computación en la Nube
-La nube es mi segunda casa: soy un apasionado de construir infraestructuras escalables y seguras. Mis proyectos abarcan desde soluciones en AWS hasta modelos optimizados para el despliegue en entornos complejos como Kubernetes. La automatización y optimización de procesos son el núcleo de esta sección.
-
-### 🌐 Modelado Matemático y Optimización
-Algunos de mis proyectos más gratificantes implican la construcción de modelos matemáticos personalizados para aplicaciones especializadas. Aquí aplico conceptos de optimización que, junto con mi amor por las matemáticas, me han permitido crear soluciones efectivas en temas como predicción de variables complejas (¡incluso oceánicas!).
+Bienvenido a mi espacio en GitHub. Aquí encontrarás el reflejo de mi pasión por la tecnología y el crecimiento personal, una travesía marcada por la transformación y el desafío constante.
 
 ---
 
-## ⚡ Cosas que me apasionan más allá del código
-Además de pasar tiempo en frente del teclado, soy un amante del deporte, especialmente de la vela ⛵. He competido a nivel nacional e internacional, representando a España en varios torneos. Esa experiencia me enseñó mucho sobre disciplina y trabajo en equipo, cosas que trato de incorporar en cada proyecto en el que me embarco (¡sí, incluido el código!).
+## Sobre Mí
+
+En mis inicios, la fascinación por el mar y la navegación me enseñó a enfrentar desafíos y a disfrutar del camino, sin importar las tormentas. Con el tiempo, he evolucionado y hoy encuentro en el running una nueva forma de superarme día a día. Esta transición simboliza mi compromiso con la constancia, la resiliencia y la búsqueda de nuevas metas, tanto en el ámbito deportivo como en el profesional.
+
+Mi recorrido en el mundo de la ciencia de datos y la ingeniería se basa en la curiosidad por descubrir cómo cada línea de código puede transformar la realidad. Mi GitHub es el espacio donde plasmo ideas, experimentos y aprendizajes que me impulsan a seguir innovando.
 
 ---
 
-### 📫 ¿Quieres hablar de datos, IA o deportes acuáticos?
-No dudes en enviarme un mensaje. Estoy siempre abierto a colaborar y a aprender de otros apasionados. 
+## Mi Filosofía
 
+- **Aprendizaje Continuo:** Cada desafío es una oportunidad para aprender y perfeccionar mis habilidades.
+- **Evolución Personal:** La transición de la navegación al running es un reflejo de mi capacidad para adaptarme y crecer.
+- **Innovación y Creatividad:** Combino el rigor técnico con la pasión por encontrar soluciones que marquen la diferencia.
+
+---
+
+## Conecta Conmigo
+
+Estoy siempre abierto a compartir ideas, colaborar en nuevos proyectos y explorar horizontes que impulsen el cambio. Si te interesa conversar sobre tecnología, running o cualquier otro tema, ¡no dudes en contactarme!
+
+- **GitHub:** [github.com/victormedinaa](https://github.com/victormedinaa)
+- **LinkedIn:** [linkedin.com/in/victor-medina-morales](https://www.linkedin.com/in/victor-medina-morales)
+- **Email:** [victormedina2157@mail.com](mailto:victormedina2157@mail.com)
+
+---
+
+¡Gracias por visitar mi perfil y ser parte de esta aventura!

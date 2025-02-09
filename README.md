@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
@@ -35,7 +34,6 @@
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Hadoop-238E68?style=flat&logo=apache-hadoop&logoColor=white" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
@@ -45,24 +43,20 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/MLflow-4285F4?style=flat&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Kubeflow-26B0ED?style=flat&logo=kubeflow&logoColor=white" alt="Kubeflow" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ### Bases de Datos & Cloud
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
 ### Herramientas de Visualización & Otras
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" />
   <img src="https://img.shields.io/badge/Streamlit-FA4B2A?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
@@ -95,5 +89,3 @@ Si te interesa compartir ideas, colaborar en proyectos o simplemente intercambia
 - **Email:** [victormedina2157@mail.com](mailto:victormedina2157@mail.com)
 
 ---
-
-© 2025 Víctor Medina • GitHub, Inc.

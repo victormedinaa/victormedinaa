@@ -1,4 +1,4 @@
-# ¡Hola, soy Víctor Medina! 🤖
+# ¡Hola, soy Víctor Medina! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-medina-morales/)
 [![GitHub followers](https://img.shields.io/github/followers/victormedinaa?style=social)](https://github.com/victormedinaa)
@@ -69,14 +69,6 @@
 - **IBM AI Enterprise Workflow** – IBM  
 - **Advanced Machine Learning on Google Cloud** – Google  
 - **Applied Python Data Engineering** – Duke University  
-
----
-
-## Mi Filosofía
-
-- **Aprendizaje Continuo:** Cada desafío es una oportunidad para expandir mis conocimientos y perfeccionar mis habilidades.  
-- **Evolución Personal:** La transición desde la navegación al running refleja mi compromiso con el cambio, la resiliencia y la superación constante.  
-- **Innovación y Creatividad:** Combino rigor técnico con pasión para generar soluciones que impacten positivamente en la realidad.
 
 ---
 

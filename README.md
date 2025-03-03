@@ -1,13 +1,15 @@
-# ¡Hola, soy Víctor Medina! 
+# Hi, I'm Víctor Medina!
+
+Welcome to my GitHub playground – a space where creativity meets data. I'm a data science and engineering enthusiast who loves exploring innovative solutions with AI, machine learning, and cloud magic. Dive in and enjoy exploring my experiments and projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-medina-morales/)
 [![GitHub followers](https://img.shields.io/github/followers/victormedinaa?style=social)](https://github.com/victormedinaa)
 
 ---
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 
-### Lenguajes de Programación
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="R" />
@@ -16,7 +18,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-### Frameworks y Librerías para AI/ML & Data Science
+### AI/ML & Data Science Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -45,7 +47,7 @@
   <img src="https://img.shields.io/badge/Kubeflow-26B0ED?style=flat&logo=kubeflow&logoColor=white" alt="Kubeflow" />
 </p>
 
-### Bases de Datos & Cloud
+### Databases & Cloud
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -53,7 +55,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
 
-### Herramientas de Visualización & Otras
+### Visualization Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Google Colab" />
@@ -63,7 +65,7 @@
 
 ---
 
-## Certificaciones y Especializaciones
+## Certifications and Specializations
 
 - **AWS Cloud Solutions Architect** – Amazon  
 - **IBM AI Enterprise Workflow** – IBM  
@@ -72,9 +74,9 @@
 
 ---
 
-## Conecta Conmigo
+## Connect With Me
 
-Si te interesa compartir ideas, colaborar en proyectos o simplemente intercambiar puntos de vista sobre tecnología y ciencia de datos, ¡estoy a tu disposición!
+If you're interested in sharing ideas, collaborating on projects, or simply discussing technology and data science, I'm here to chat!
 
 - **GitHub:** [github.com/victormedinaa](https://github.com/victormedinaa)  
 - **LinkedIn:** [linkedin.com/in/victor-medina-morales](https://www.linkedin.com/in/victor-medina-morales/)  

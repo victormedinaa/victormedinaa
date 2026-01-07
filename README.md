@@ -27,7 +27,7 @@ I am a data science and engineering professional with a strong background in AI,
 - IBM AI Enterprise Workflow – IBM
 - Advanced Machine Learning on Google Cloud – Google
 - Applied Python Data Engineering – Duke University
-
+- Reinforcement Learnings - Alberta University
 ---
 
 ## Connect

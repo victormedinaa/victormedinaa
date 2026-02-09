@@ -34,4 +34,4 @@ I am a data science and engineering professional with a strong background in AI,
 
 - **GitHub:** [victormedinaa](https://github.com/victormedinaa)  
 - **LinkedIn:** [Víctor Medina](https://www.linkedin.com/in/victor-medina-morales/)  
-- **Email:** [victormedina2157@mail.com](mailto:victormedina2157@mail.com)
+- **Email:** [v.a.medina.morales@accenture.com](mailto:v.a.medina.morales@accenture.com)

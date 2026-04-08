@@ -3,7 +3,7 @@ Data Engineer & Scientist
 
 I build things with data. I spend most of my time between data pipelines and machine learning, usually trying to make sure things actually work in production. 
 
-I’m mostly into Python, Spark, and AWS. Not looking for a job right now, just building cool stuff and staying curious.
+I’m mostly into Python, Spark, and AWS. Not seekiing for a job right now, just building cool stuff and staying curious.
 
 ---
 

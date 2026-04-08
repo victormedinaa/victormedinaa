@@ -1,37 +1,14 @@
-<h1 align="center">Víctor Medina</h1>
-<h3 align="center">Data Science & Engineering Professional</h3>
+# Víctor Medina
+Data Engineer & Scientist
 
+I build things with data. I spend most of my time between data pipelines and machine learning, usually trying to make sure things actually work in production. 
 
----
-
-## About Me
-
-I am a data science and engineering professional with a strong background in AI, machine learning, and cloud technologies. I focus on developing data-driven solutions that enhance decision-making and operational efficiency.
+I’m mostly into Python, Spark, and AWS. Not looking for a job right now, just building cool stuff and staying curious.
 
 ---
 
-## Skills
+### Tech I use often
+Python, SQL, Spark, AWS, and some ML frameworks (TensorFlow/PyTorch).
 
-**Programming:** Python, R, SQL, Java, C++  
-**AI & Machine Learning:** TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, Hugging Face, Matplotlib, Seaborn, Plotly  
-**Big Data & Data Engineering:** Apache Spark, Hadoop, Airflow  
-**DevOps & MLOps:** Docker, Kubernetes, MLflow, Kubeflow  
-**Cloud & Databases:** AWS, Google Cloud, PostgreSQL, MongoDB  
-**Visualization & Tools:** Jupyter, Google Colab, Power BI, Streamlit
-
----
-
-## Certifications
-
-- AWS Cloud Solutions Architect – Amazon
-- IBM AI Enterprise Workflow – IBM
-- Advanced Machine Learning on Google Cloud – Google
-- Applied Python Data Engineering – Duke University
-- Reinforcement Learnings - Alberta University
----
-
-## Connect
-
-- **GitHub:** [victormedinaa](https://github.com/victormedinaa)  
-- **LinkedIn:** [Víctor Medina](https://www.linkedin.com/in/victor-medina-morales/)  
-- **Email:** [v.a.medina.morales@accenture.com](mailto:v.a.medina.morales@accenture.com)
+### Catch me at:
+[GitHub](https://github.com/victormedinaa) / [LinkedIn](https://www.linkedin.com/in/victor-medina-morales/) / [Email](mailto:v.a.medina.morales@accenture.com)
